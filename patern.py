@@ -25,3 +25,19 @@ for i in range(rows):
   * * *
  * * * *
 * * * * * """
+
+
+# Q3. Inverted Right Triangle
+
+
+
+
+
+
+
+
+
+
+
+
+
